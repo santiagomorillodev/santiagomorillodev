@@ -16,7 +16,7 @@
 </p>
 
 
-# Hello there, my name is Santiago <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+# Hello there, my name is Santiago 👋🏽
 
   <!-- Typing Text -->
 <p align="center">
