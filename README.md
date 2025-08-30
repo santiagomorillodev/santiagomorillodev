@@ -31,7 +31,7 @@
 ```diff
 🛠️ Experience developing complex projects.
 +  ✔️ Responsible worker.
-#  👨‍💻 I have completed 70% of my degree in Computer Engineering.
+#  👨‍💻 I have completed 70% of my degree in Software Engineering.
 -  🧩 Passionate about solving challenges and learning new technologies.
 !  🚀 I enjoy collaborating in teams and sharing knowledge.
 *  🔎 Always looking for new opportunities to grow professionally.
